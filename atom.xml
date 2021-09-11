@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-09-07T08:21:16.653Z</updated>
+  <updated>2021-09-11T04:29:11.328Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>生产实习报告总结</title>
+    <link href="http://example.com/2021/09/11/sheng-chan-shi-xi-bao-gao-zong-jie/"/>
+    <id>http://example.com/2021/09/11/sheng-chan-shi-xi-bao-gao-zong-jie/</id>
+    <published>2021-09-11T04:17:16.000Z</published>
+    <updated>2021-09-11T04:29:11.328Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;一、生产实习任务及目的&quot;&gt;&lt;a href=&quot;#一、生产实习任务及目的&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="杂谈资料" scheme="http://example.com/categories/%E6%9D%82%E8%B0%88%E8%B5%84%E6%96%99/"/>
+    
+    
+    <category term="生产实习报告" scheme="http://example.com/tags/%E7%94%9F%E4%BA%A7%E5%AE%9E%E4%B9%A0%E6%8A%A5%E5%91%8A/"/>
+    
+    <category term="总结" scheme="http://example.com/tags/%E6%80%BB%E7%BB%93/"/>
+    
+  </entry>
   
   <entry>
     <title>你好，博客</title>
